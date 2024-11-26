@@ -1,4 +1,4 @@
-# Ecosystem configuration
+# 生态系统配置
 
 ## 生态节点
 
